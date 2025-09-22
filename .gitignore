@@ -1,0 +1,16 @@
+# Logs
+*.log
+nohup.out
+
+# Configuration files with sensitive data
+# *.conf.js
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# JSON output files
+tinyChunkList.json
+
+# old files
+old
