@@ -5,7 +5,7 @@
 // - Splitting parameters
 const config = {
     "Atlas": {
-        "myURI": "mongodb+srv://gpi:gpi@shdest.baelt.mongodb.net/?timeoutMS=30000"
+        "myURI": "mongodb+srv:/xxxx:xxxx@abcdef.ghijkl.mongodb.net/?timeoutMS=30000"
     },
     "Meta": {
         "dbData": "ocp",
